@@ -1,0 +1,16 @@
+# Gradle编译缓存（就是你屏幕那一大堆bin、lock文件）
+.gradle/
+build/
+
+# IDEA软件自己生成的配置缓存
+.idea/
+*.iml
+*.iws
+*.out
+
+# java编译class文件
+*.class
+
+# 日志、临时文件
+*.log
+.DS_Store
